@@ -4,14 +4,16 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.content.Intent;
 import android.widget.Button;
-
+// Import necessary stuff
 public class buttonsmove extends Activity {
     Intent movetoact;
+//Using intent of button
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Button mondayEdit=(Button)findViewById(R.id.btn_locate);
+// Basic stuff
+        Button Deeeee=(Button)findViewById(R.id.btn_locate);
     }
 
     public void move()
