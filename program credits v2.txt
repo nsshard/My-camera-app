@@ -1,0 +1,8 @@
+Faisal-FS. 2021. CameraX-In-Java. https://github.com/Faisal-FS/CameraX-In-Java
+
+Google Maps Platform. 2021. Maps SDK for Android overview. https://developers.google.com/maps/documentation/android-sdk/overview
+
+Chafiq Fry. 2019.  Download compass png png images background. https://toppng.com/compass-png-PNG-free-PNG-Images_139262
+
+razormist. 2018. Android - Simple GPS Location. https://www.sourcecodester.com/android/12188/android-simple-gps-location.html
+
